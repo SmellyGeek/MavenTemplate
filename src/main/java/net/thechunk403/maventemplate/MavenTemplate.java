@@ -1,4 +1,4 @@
-package net.thebench403.maventemplate;
+package net.thechunk403.maventemplate;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
