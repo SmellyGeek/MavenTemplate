@@ -1,0 +1,4 @@
+name: MavenTemplate
+main: net.thebench403.maventemplate.MavenTemplate
+version: ${project.version}
+author: TheBench403
