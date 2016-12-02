@@ -1,4 +1,4 @@
-package net.thechunk403.maventemplate;
+package me.smellygeek.maventemplate;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
