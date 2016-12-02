@@ -1,4 +1,4 @@
-package me.smellygeek.maventemplate;
+package net.hawkrobin.maventemplate;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
