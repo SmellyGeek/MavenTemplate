@@ -1,4 +1,4 @@
 name: MavenTemplate
-main: net.hawkrobin.maventemplate.MavenTemplate
+main: net.slacktooth.maventemplate.MavenTemplate
 version: ${project.version}
-author: hawkrobin
+author: slacktooth

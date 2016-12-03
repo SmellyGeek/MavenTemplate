@@ -1,4 +1,4 @@
-package net.hawkrobin.maventemplate;
+package net.slacktooth.maventemplate;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
